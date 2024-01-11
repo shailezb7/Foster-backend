@@ -5,5 +5,17 @@
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.0.4"
-  }
+  },
+  "name": "foster-backend",
+  "description": "- Node.js installed on your machine. [Download Node.js](https://nodejs.org/)\r - MongoDB or another supported database installed and running.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
